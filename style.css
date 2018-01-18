@@ -1,0 +1,10 @@
+.container {
+	width: 100%;
+	max-width: 1200px;
+	background-color: #4424D6;
+	color: #B89414;
+	font-family: arial;
+	text-align: center;
+	padding: 3%;
+	margin: 0 auto;
+}
